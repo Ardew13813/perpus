@@ -5,6 +5,7 @@ public class Greeting {
 	public  void coba(){
 
 		System.out.println(r + s);
+		System.out.println("vici cantik");
 		
 	}
 }
